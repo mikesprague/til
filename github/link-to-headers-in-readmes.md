@@ -1,4 +1,4 @@
-Anytime you add a header to a markdown file, Github attaches an `href` with
+Anytime you add a header to a markdown file, GitHub attaches an `href` with
 it's downcased name. For example, "JavaScript" receives a link to
 `#javascript`.
 
@@ -8,7 +8,7 @@ headers further down the document:
 ```markdown
 ### Table of Contents
 
-- [Github](#github)
+- [GitHub](#github)
 ```
 
 This will link to a header containing 'GitHub'.
