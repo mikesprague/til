@@ -14,7 +14,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
 
   * Atom Editor
   * Bash
-  * CSS
+  * [CSS](#css)
   * Git
   * [GitHub](#github)
   * HTML
@@ -28,6 +28,10 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
   * Wordpress
 
 ---
+
+### CSS
+
+  * [Remove white background from images](https://github.com/mikesprague/til/blob/master/css/remove-white-background-from-images.md)
 
 
 ### GitHub
