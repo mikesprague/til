@@ -35,7 +35,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
   * [Remove White Background from Images](https://github.com/mikesprague/til/blob/master/css/remove-white-background-from-images.md)
 
 
-#DevTools
+### DevTools
 
   * [console.time and console.timeEnd](https://github.com/mikesprague/til/blob/master/devtools/console-time-and-console-timeend.md)
 
