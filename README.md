@@ -15,7 +15,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
   * Atom Editor
   * Bash
   * [CSS](#css)
-  * Git
+  * [Git](#git)
   * [GitHub](#github)
   * HTML
   * JavaScript
@@ -31,7 +31,13 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
 
 ### CSS
 
-  * [Remove white background from images](https://github.com/mikesprague/til/blob/master/css/remove-white-background-from-images.md)
+  * [Remove White Background from Images](https://github.com/mikesprague/til/blob/master/css/remove-white-background-from-images.md)
+
+
+### Git
+
+  * [Create Git Commit Template](https://github.com/mikesprague/til/blob/master/git/create-git-commit-template.md)
+  * [Ideal Git Commit Message](https://github.com/mikesprague/til/blob/master/git/ideal-git-commit-message.md)
 
 
 ### GitHub
