@@ -3,7 +3,7 @@
 > Be curious. Read widely. Try new things. What people call
 > intelligence just boils down to curiosity. —Aaron Swartz
 
-I am constantly learning new things. This is a repo to share those learnings.
+We are constantly learning new things. This is a repo to share those learnings.
 
 TILs are short Markdown documents (a few sentences + example code)
 explaining concepts, bits of syntax, commands, or tips I've recently learned.
@@ -15,6 +15,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
   * Atom Editor
   * Bash
   * [CSS](#css)
+  * [DevTools](#devtools)
   * [Git](#git)
   * [GitHub](#github)
   * HTML
@@ -32,6 +33,11 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
 ### CSS
 
   * [Remove White Background from Images](https://github.com/mikesprague/til/blob/master/css/remove-white-background-from-images.md)
+
+
+#DevTools
+
+  * [console.time and console.timeEnd](https://github.com/mikesprague/til/blob/master/devtools/console-time-and-console-timeend.md)
 
 
 ### Git
