@@ -4,7 +4,7 @@ messages while researching the ideal git commit.
 **The Layout**
 
 ```
-<icon> <type>: <subject>
+<type>: <subject>
 
 <body>
 
@@ -13,7 +13,7 @@ messages while researching the ideal git commit.
 
 **The Title (the first line)**
 
-The title consists of the `<type>` and the `<subject>`.
+The title consists of the `<type>` and the `<subject>`
 
 > Protip: Find yourself with an *and* in that commit title?  Consider breaking
 > the commit down.  `git commit -p` is your friend!
@@ -21,7 +21,7 @@ The title consists of the `<type>` and the `<subject>`.
 
 **Allowed Values for `<type>`**
 
-- :package: **feat** (new feature)
+- :package: **feature** (new feature)
 - :bug: **fix** (bug fix)
 - :book: **docs** (changes to documentation)
 - :art: **style** (formatting, missing semi colons, etc; no code change)
@@ -29,7 +29,7 @@ The title consists of the `<type>` and the `<subject>`.
 - :no_entry: **remove** (remove code and/or files)
 - :white_check_mark: **test** (adding missing tests, refactoring tests;
   no production code change)
-- :nut_and_bolt: "**chore** (updating grunt tasks etc; no production code change)
+- :wrench: **chore** (updating grunt tasks etc; no production code change)
 - :eyeglasses: **linting** (remove linter warnings/errors; no breaking code changes)
 
 
