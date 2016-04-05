@@ -33,6 +33,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
 ### CSS
 
   * [Remove White Background from Images](https://github.com/mikesprague/til/blob/master/css/remove-white-background-from-images.md)
+  * [CSS Containment](https://github.com/mikesprague/til/blob/master/css/css-containment.md)
 
 
 ### DevTools
