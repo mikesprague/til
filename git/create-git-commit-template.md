@@ -1,3 +1,5 @@
+# Create Git Commit Template
+
 Create a file to hold your template, e.g. git-commit-template.txt.
 Put in whatever you want to remember, just be sure to keep everything
 commented out (via #) or it will be in the actual message.

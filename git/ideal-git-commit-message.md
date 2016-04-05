@@ -1,3 +1,5 @@
+# Ideal Git Commit Message
+
 The following takes the best parts of several resources I found on git commit
 messages while researching the ideal git commit.
 
