@@ -1,3 +1,5 @@
+# Remove White Background from Images
+
 Use `mix-blend-mode: multiply;` in your CSS to knock out white backgrounds
 from images.
 
