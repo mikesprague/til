@@ -14,6 +14,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
 
   * Atom Editor
   * Bash
+  * [CLI / Terminal](#cli--terminal)
   * [CSS](#css)
   * [DevTools](#devtools)
   * [Git](#git)
@@ -29,6 +30,11 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
   * Wordpress
 
 ---
+
+### CLI / Terminal
+
+  * [Get Local Weather from the Command Line](https://github.com/mikesprague/til/blob/master/cli-terminal/get-local-weather.md)
+
 
 ### CSS
 
