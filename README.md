@@ -21,7 +21,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
   * [GitHub](#github)
   * HTML
   * JavaScript
-  * jQuery
+  * [jQuery](#jquery)
   * Laravel
   * PHP
   * SQL
@@ -56,3 +56,8 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
 ### GitHub
 
   * [Link to Headers in READMEs](https://github.com/mikesprague/til/blob/master/github/link-to-headers-in-readmes.md)
+
+
+### jQuery
+
+  * [jQuery 3.0 New Loop Syntax](https://github.com/mikesprague/til/blob/master/jquery/jquery-3-loop-syntax.md)
