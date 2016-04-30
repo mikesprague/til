@@ -56,6 +56,7 @@ explaining concepts, bits of syntax, commands, or tips I've recently learned.
 ### GitHub
 
   * [Link to Headers in READMEs](https://github.com/mikesprague/til/blob/master/github/link-to-headers-in-readmes.md)
+  * [Add Query Parameter to Ignore Whitespace in Diffs](https://github.com/mikesprague/til/blob/master/github/ignore-whitespace-in-diffs.md)
 
 
 ### jQuery
